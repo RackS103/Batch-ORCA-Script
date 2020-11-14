@@ -1,0 +1,2 @@
+PATH: orca
+HEADER: ! B3LYP OPT LMAO
